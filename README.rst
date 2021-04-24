@@ -11,8 +11,9 @@ Note that you will need to unzip **Guam03.zip** after downloading. It contains *
 Previous Guam CRB Damage Maps
 -----------------------------
 
-`Oct 2020 <https://aubreymoore.github.io/new-crb-damage-map/>`_ <br>
-`Dec 2020 <https://aubreymoore.github.io/Guam-CRB-damage-map-2020-12/webmap/v1/>` <br>
+`Oct 2020 <https://aubreymoore.github.io/new-crb-damage-map/>`_
+
+`Dec 2020 <https://aubreymoore.github.io/Guam-CRB-damage-map-2020-12/webmap/v1/>`_
 
 Timeline Plot
 -------------
